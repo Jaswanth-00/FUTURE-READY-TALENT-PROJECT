@@ -1,10 +1,5 @@
 @charset "UTF-8";
-/*!
- *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
- *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
- */
-/* FONT PATH
- * -------------------------- */
+
 @font-face {
   font-family: 'FontAwesome';
   src: url("../fonts/fontawesome-webfont.eot?v=4.7.0");
@@ -2765,7 +2760,6 @@
 .w3l-main-slider {
   /**
    * Owl Carousel v2.3.4
-   * Copyright 2013-2018 David Deutsch
    * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
    */ }
   .w3l-main-slider .owl-carousel,
@@ -3042,6 +3036,12 @@
     z-index: 0;
     display: grid;
     align-items: center; }
+    .w3l-main-slider .banner-view{
+      src: url(https://webchat.botframework.com/embed/biobot-5iu5fl4?s=7xPDvjucvc4.KOJSbK_FsY--v_ucUSrJUf4_IAMLFG_rkHDaGGATqV0);
+      min-width: 400px;
+      width: 100%; 
+      min-height: 500px;
+    }
   .w3l-main-slider .banner-top1 {
     background: url(../images/2.jpg) no-repeat center;
     background-size: cover; }
@@ -11732,7 +11732,8 @@ body,
 html {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+ Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
 
 * {
   box-sizing: border-box; }
