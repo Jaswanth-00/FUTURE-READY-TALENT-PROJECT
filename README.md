@@ -46,11 +46,11 @@ This is a web based application developed for fruits and vegetables are good for
                There is any products issues or any Machinery problems we have provide you a help center .
 
 
-### Contact us -Looking for diete nutrition products contact to Bioactive healthy foods.
+### Contact us -Looking for diet nutrition products contact to Bioactive healthy foods.
 
 
 
-### Bio bot
+
 
 
 
@@ -60,5 +60,4 @@ This is a web based application developed for fruits and vegetables are good for
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
