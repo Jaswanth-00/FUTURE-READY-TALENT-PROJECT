@@ -7,7 +7,8 @@ This is a web based application developed for fruits and vegetables are good for
 
 
 **Project Link** -https://purple-rock-03df57600.2.azurestaticapps.net
-**project demo video link** - 
+
+**project demo video link** - https://youtu.be/wkT17xAcZfE
 
 ## Azure technologies used for Project
 
