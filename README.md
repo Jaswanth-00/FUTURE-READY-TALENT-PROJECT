@@ -25,6 +25,9 @@ This is a web based application developed for fruits and vegetables are good for
 - By using the website we can develope the farming subsidies in India. 
 
 ## Screenshots
+# Azure Services
+![Screenshot 2022-11-27 104139](https://user-images.githubusercontent.com/111040137/204120337-ef35d205-1783-464e-a38f-d5be07c93e92.jpg)
+![Screenshot 2022-11-27 104010](https://user-images.githubusercontent.com/111040137/204120341-5f200cad-edc4-45ff-b58e-1b398765f00b.jpg)
 ![Bioactive foods in Promoting Health - Google Chrome 17-11-2022 11_10_29](https://user-images.githubusercontent.com/111040137/202366217-cee92d45-9c41-4a00-96a1-b50bf081c39d.png)
 ![Bioactive foods in Promoting Health - Google Chrome 17-11-2022 11_10_52](https://user-images.githubusercontent.com/111040137/202367893-d7f0a4d3-9a93-4265-8de9-651020bc79df.png)
 ![Bioactive foods in Promoting Health - Google Chrome 17-11-2022 11_11_04](https://user-images.githubusercontent.com/111040137/202367940-96b1b2ab-a0ed-4dfe-86b7-484b77645278.png)
